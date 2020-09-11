@@ -15,7 +15,7 @@ CAPABILITY | CRAWL | WALK | RUN
 ---------- | ----- | ---- | ---
 Use version control for all production artifacts | No version control | Source code or other assets under version control | Source code or other assets under version control and all production artifacts versioned and stored in the corresponding artifact repository
 Automate deployment processes | Manual deployment process | Partially automated deployment process | Fully automated deployment process
-Implement test automation | Manual test script execution | Partially automated testing (unit or regression or performance tests) | Fully automated testing (unit and reliability (regression and performance tests)
+Implement test automation | Manual test script execution | Partially automated testing (unit or regression or performance tests) | Fully automated testing (unit, reliability, regression and performance tests)
 Implement infrastructure automation | Manual deployment process | Partially automated deployment process. Provisioning is done by the teams | Fully automated deployment (infrastructure-as-code). Platform Engineering provides base images
 Support test data management | No test data management | Partially automated test data management (e.g. manually triggered import and export of test data) | Fully automated test data management incl. strategy (e.g. consumer data only in PROD)
 Implement continuous delivery | No continuous delivery | Partially automated delivery pipeline (e.g. automated build, test process with the manual deployment) | Fully automated pipeline (automated build, test, deployment across environments)
