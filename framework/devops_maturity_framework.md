@@ -11,6 +11,7 @@ be to set quarterly targets to be able to define meaningful actions.
 #### DEVELOPMENT 
 
 ----------
+
 CAPABILITY | CRAWL | WALK | RUN  
 ---------- | ----- | ---- | ---
 Use version control for all production artifacts | No version control | Source code or other assets under version control | Source code or other assets under version control and all production artifacts versioned and stored in the corresponding artifact repository
