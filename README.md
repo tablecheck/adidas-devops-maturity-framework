@@ -31,7 +31,7 @@ might be the "Walk" of tomorrow, helping the teams to aim for continuous improve
 * [DevOps Maturity Framework](framework/devops_maturity_framework.md)
 * [DevOps Maturity Increase Index (DMII)](framework/dmii.md)
 
-### Changes
+### Changes by @TableCheck
 
 * Replaced some wording to better suit a remote-first culture.
 * Added more DevOps goals to the framework.
