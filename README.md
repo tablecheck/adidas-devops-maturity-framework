@@ -3,7 +3,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# TableCheck DevOps Framework - based on the adidas DevOps maturity framework
+# TableCheck DevOps maturity Framework - based on the adidas DevOps maturity framework
 
 The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support
 the teams on their DevOps transformation journey.
