@@ -3,6 +3,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+# TableCheck Edits
+
+* Replaced some wording to better suit a remote-first culture.
+* Fixed some grammatical errors.
+
 # adidas DevOps Maturity Framework
 
 The DevOps maturity framework was created by adidas as a guide for the first DevOps cup to support
